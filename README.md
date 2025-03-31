@@ -19,6 +19,6 @@ Expanded with more colors, highlighting every type hints and properties.
 
 ## Screenshot
 
-![Screenshot](https://github.com/astron8t-voyagerx/vscode-theme-darcula-expanded/blob/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/astron8t-voyagerx/vscode-theme-darcula-expanded/master/screenshot.png)
 
 **Enjoy!**
