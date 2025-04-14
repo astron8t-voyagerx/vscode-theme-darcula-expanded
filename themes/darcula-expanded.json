@@ -373,7 +373,8 @@
       "name": "markup Italic",
       "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
       "settings": {
-        "foreground": "#cc8242"
+        "foreground": "#cc8242",
+        "fontStyle": "italic"
       }
     },
     {
@@ -831,13 +832,6 @@
       }
     },
     {
-      "name": "markup.italic.markdown",
-      "scope": "markup.italic.markdown",
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
       "scope": "keyword.operator.logical,keyword.operator.expression,keyword.operator.ternary,keyword.operator.new",
       "settings": {
         "foreground": "#cc8242"
@@ -861,16 +855,6 @@
       "scope": "string",
       "settings": {
         "foreground": "#6a8759"
-      }
-    },
-    {
-      "scope": [
-        "storage.type",
-        "entity.other.attribute-name",
-        "keyword.other.unit"
-      ],
-      "settings": {
-        "fontStyle": "italic"
       }
     }
   ],

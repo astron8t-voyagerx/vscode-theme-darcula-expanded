@@ -2,7 +2,7 @@
   "name": "darcula-expanded",
   "displayName": "Darcula Expanded",
   "description": "A theme for VS Code, from JetBrains Darcula, with expanded colors",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "astron8t",
   "scripts": {
     "publish": "vsce publish"
