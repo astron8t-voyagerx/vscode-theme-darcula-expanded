@@ -237,7 +237,8 @@
       "scope": [
         "entity.name.class",
         "variable.other.class.js",
-        "variable.other.class.ts"
+        "variable.other.class.ts",
+        "support.class.dart"
       ],
       "settings": {
         "foreground": "#7a9ec2"
