@@ -5,7 +5,7 @@
   "version": "1.0.3",
   "publisher": "astron8t",
   "scripts": {
-    "publish": "vsce publish"
+    "publish-vsc": "vsce publish"
   },
   "repository": {
     "type": "git",
